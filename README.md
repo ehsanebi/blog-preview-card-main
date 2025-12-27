@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/ehsanebi/blog-preview-card-main.git
-- Live Site URL: 
+- Live Site URL: https://ehsanebi.github.io/blog-preview-card-main/
 
 ### Built with
 
