@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://github.com/ehsanebi/blog-preview-card-main.git
 - Live Site URL: 
 
 ### Built with
